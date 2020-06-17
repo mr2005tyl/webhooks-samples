@@ -1,0 +1,6 @@
+{"text": "VM01 (192.168.200.101) is Down at least 20 min.\r\n\r\nDetails:\r\n\r\nDevice Primary Role: Windows Desktop\r\n\r\nMonitors that are down: Ping\r\n\r\nMonitors that are up: \r\n\r\nDevice Status:\r\nhttp://localhost:8080/NmConsole/#v=Wug_view_dashboard_DeviceStatus/p=%7B%22deviceId%22%3A40%7D", "username": "WhatsUp Gold", "icon_url": "http://cdn.ipswitch.com/nm/WhatsUpGold/Assets/icons/WUG.png", "channel": ""}
+null
+null
+hiiii
+{"text": "VM01 (192.168.200.101) is Down at least 2 min.\r\n\r\nDetails:\r\n\r\nDevice Primary Role: Windows Desktop\r\n\r\nMonitors that are down: Ping\r\n\r\nMonitors that are up: \r\n\r\nDevice Status:\r\nhttp://localhost:8080/NmConsole/#v=Wug_view_dashboard_DeviceStatus/p=%7B%22deviceId%22%3A40%7D", "username": "WhatsUp Gold", "icon_url": "http://cdn.ipswitch.com/nm/WhatsUpGold/Assets/icons/WUG.png", "channel": ""}
+can see me
